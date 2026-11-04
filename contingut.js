@@ -1,0 +1,7 @@
+// Afegeix o modifica les fitxes aquí. Mantén les idees curtes.
+const fitxes = {
+ modernisme: { label:'MOVIMENT LITERARI · 1892–1911', title:'El Modernisme', intro:'Renovar la cultura catalana i obrir-la a Europa.', points:['Ruptura amb les formes tradicionals.','Conflicte entre l’artista i la societat.'], currents:[['Regeneracionisme','L’art per transformar la societat.'],['Esteticisme','L’art per l’art: bellesa i llibertat.']], stages:[['1892–1900','Inici i ruptura'],['1900–1911','Consolidació']] },
+ rusinol: {label:'TEATRE',title:'Santiago Rusiñol',image:'assets/rusinol.jpg',intro:'L’artista davant la societat burgesa.',points:['Esteticisme i defensa de l’art.','Impulsor de les festes modernistes de Sitges.'],works:[['L’alegria que passa','1898 · Art i incomprensió.'],['L’auca del senyor Esteve','1907 · Art i negoci familiar.']],note:'L’auca: novel·la de 1907; versió teatral de 1917.'},
+ catala: {label:'NARRATIVA',title:'Víctor Català',image:'assets/catala.jpg',intro:'El pseudònim de Caterina Albert.',points:['Ruralisme i conflictes psicològics.','Individu davant un entorn opressor.'],works:[['Solitud','1905 · La Mila cerca la seva autonomia.'],['Drames rurals','1902 · Contes de la duresa del món rural.']]},
+ maragall: {label:'POESIA',title:'Joan Maragall',image:'assets/maragall.jpg',intro:'La poesia com a expressió de la vida.',points:['Vitalisme: energia i afirmació de la vida.','Paraula viva: emoció sincera i espontània.'],works:[['La vaca cega','Solitud i vulnerabilitat.'],['Visions i cants','1900 · Mites i identitat col·lectiva.']]}
+};

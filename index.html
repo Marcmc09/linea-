@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="ca">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#193e32"><meta name="description" content="Una línia del temps interactiva de la literatura catalana: Modernisme, Rusiñol, Víctor Català i Maragall."><title>Un viatge en el temps · Literatura catalana</title><link rel="stylesheet" href="estils.css"></head>
+<body>
+<header class="topbar"><a class="brand" href="index.html">LITERATURA CATALANA <span aria-hidden="true">—</span></a><span class="chapter">01 / EL MODERNISME</span></header>
+<main>
+<section class="intro"><p class="eyebrow">LES PARAULES TAMBÉ FAN HISTÒRIA</p><h1>Un viatge en el <em>temps</em></h1><div class="flourish" aria-hidden="true">─── ◇ ───</div><p>Explora els moviments i les veus que els van donar vida.</p></section>
+<div class="timeline-scroll" tabindex="0" role="region" aria-label="Línia del temps. Desplaça horitzontalment per explorar-la.">
+<div class="timeline">
+<section class="period" aria-label="Modernisme, de 1892 a 1911">
+<div class="movement-wrap"><button class="movement" data-open="modernisme" aria-haspopup="dialog"><span class="eyebrow">UN NOU ART. UNA NOVA MIRADA.</span><h2>Modernisme</h2><span class="tags"><span>Renovació</span><span>Europa</span><span>Art i societat</span></span><span class="cta">Explora el moviment <span aria-hidden="true">↗</span></span><span class="corner" aria-hidden="true">✧</span></button></div>
+<div class="axis"><span class="date start">1892</span><span class="date end">1911</span><span class="node first"></span><span class="node last"></span><span class="axis-label">MODERNISME LITERARI</span></div>
+<div class="authors">
+<button class="author" data-open="rusinol" aria-haspopup="dialog"><span class="connector"></span><span class="portrait"><img src="assets/rusinol.jpg" alt="Retrat de Santiago Rusiñol"></span><span class="genre">TEATRE</span><h3>Santiago<br>Rusiñol</h3><span class="discover">Descobreix <span aria-hidden="true">↗</span></span></button>
+<button class="author" data-open="catala" aria-haspopup="dialog"><span class="connector"></span><span class="portrait"><img src="assets/catala.jpg" alt="Retrat de Caterina Albert, Víctor Català"></span><span class="genre">NARRATIVA</span><h3>Víctor<br>Català</h3><span class="discover">Descobreix <span aria-hidden="true">↗</span></span></button>
+<button class="author" data-open="maragall" aria-haspopup="dialog"><span class="connector"></span><span class="portrait"><img src="assets/maragall.jpg" alt="Retrat de Joan Maragall"></span><span class="genre">POESIA</span><h3>Joan<br>Maragall</h3><span class="discover">Descobreix <span aria-hidden="true">↗</span></span></button>
+</div></section>
+<aside class="future"><div class="future-copy"><span class="eyebrow">LES PÀGINES QUE VINDRAN</span><p>La història<br><em>continua…</em></p></div><div class="future-axis" aria-hidden="true"><span>→</span></div></aside>
+</div></div>
+<footer><span class="hint"><span aria-hidden="true">✧</span> Cada nom, una història. Clica per descobrir-la.</span><button class="text-button" data-open="fonts" aria-haspopup="dialog">Fonts</button><div class="navigation"><button id="prev" aria-label="Desplaça la línia cap a l’esquerra">←</button><button id="next" aria-label="Desplaça la línia cap a la dreta">→</button></div></footer>
+</main>
+<dialog id="detail" aria-labelledby="detail-title"><button id="close" class="close" aria-label="Tanca la fitxa">×</button><div id="detail-body"></div><button class="back" id="back">← Torna a la línia del temps</button></dialog>
+<script src="contingut.js"></script><script src="app.js"></script>
+</body></html>

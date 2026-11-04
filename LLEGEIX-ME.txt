@@ -1,0 +1,20 @@
+UN VIATGE EN EL TEMPS
+
+PER PROVAR-LA
+Descomprimeix el ZIP i fes doble clic a Obre_la_web.html. Funciona sense connexió.
+
+PER PUJAR-LA A GITHUB
+Puja index.html, estils.css, contingut.js, app.js i la carpeta assets a l’arrel del repositori.
+
+PER MODIFICAR-LA
+contingut.js: idees clau i obres.
+estils.css: colors i disseny.
+index.html: estructura i autors.
+app.js: finestres i navegació.
+Obre_la_web.html és una còpia autònoma per provar-la; si edites els altres fitxers, obre index.html per veure els canvis.
+
+CONTINGUTS
+Adaptació del resum de classe El Modernisme. Les posicions de les targetes no són dates personals dels autors.
+
+IMATGES
+Retrats reals de Wikimedia Commons a través de Viquipèdia; enllaços a assets/sources.json.
