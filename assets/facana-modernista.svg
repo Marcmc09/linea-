@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 720" fill="none" stroke="#52654f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<defs><g id="window"><path d="M-19 25V-10Q-18-38 0-42Q18-38 19-10V25ZM0-40V25M-19-5H19"/><path d="M-26 27Q0 38 26 27M-27 32Q0 45 27 32M-23 28V38M-12 31V41M0 33V43M12 31V41M23 28V38"/></g><g id="leaf"><path d="M0 0Q-20-30 0-49Q20-30 0 0ZM0 0V-41"/></g></defs>
+<path fill="#52654f" fill-opacity=".18" d="M72 680V239Q111 240 115 208Q142 222 159 190Q181 197 195 151Q221 166 239 124Q257 166 281 151Q296 197 320 190Q335 222 361 208Q369 240 408 239V680Z"/>
+<path d="M72 680V239Q111 240 115 208Q142 222 159 190Q181 197 195 151Q221 166 239 124Q257 166 281 151Q296 197 320 190Q335 222 361 208Q369 240 408 239V680M61 680H419M65 690H425"/>
+<path d="M67 247Q113 254 119 220Q145 237 161 202Q185 213 200 165Q223 181 239 139Q257 181 277 165Q291 213 317 202Q333 237 358 220Q367 254 413 247M87 263V662M393 263V662"/>
+<path d="M239 125V61M229 76H249M233 64Q239 50 245 64M226 116Q239 101 252 116M207 153Q239 127 271 153"/>
+<path d="M104 217V151Q112 136 120 151V210M100 151H124M108 136V118M337 201V134Q347 115 357 134V214M333 136H361M347 119V96"/>
+<ellipse cx="239" cy="211" rx="22" ry="30"/><path d="M239 183V239M218 211H260M223 191L255 231M255 191L223 231"/>
+<use href="#window" x="132" y="301"/><use href="#window" x="203" y="286"/><use href="#window" x="277" y="286"/><use href="#window" x="348" y="301"/>
+<use href="#window" x="132" y="405"/><use href="#window" x="203" y="405"/><use href="#window" x="277" y="405"/><use href="#window" x="348" y="405"/>
+<use href="#window" x="132" y="510"/><use href="#window" x="203" y="510"/><use href="#window" x="277" y="510"/><use href="#window" x="348" y="510"/>
+<path d="M87 355Q130 342 168 355T248 355T328 355T393 355M87 459Q130 446 168 459T248 459T328 459T393 459M87 564Q130 551 168 564T248 564T328 564T393 564M196 680V614Q240 552 284 614V680M204 680V619Q240 567 276 619V680M240 590V679M110 680V614Q132 585 155 614V680M325 680V614Q348 585 371 614V680"/>
+<g stroke-width="1"><use href="#leaf" transform="translate(170 395) scale(.3)"/><use href="#leaf" transform="translate(310 395) scale(.3)"/><use href="#leaf" transform="translate(170 500) scale(.3)"/><use href="#leaf" transform="translate(310 500) scale(.3)"/><path d="M96 267Q112 256 123 267M357 267Q372 256 385 267"/></g>
+</svg>

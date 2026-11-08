@@ -1,0 +1,20 @@
+[
+  {
+    "key": "rusinol",
+    "title": "Santiago Rusiñol i Prats",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Santiago_Rusi%C3%B1ol%2C_de_Kaulak.jpg/330px-Santiago_Rusi%C3%B1ol%2C_de_Kaulak.jpg?utm_source=ca.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ca.wikipedia.org/wiki/Santiago_Rusi%C3%B1ol_i_Prats"
+  },
+  {
+    "key": "catala",
+    "title": "Caterina Albert i Paradís",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Caterina_albert_i_paradis_victor_catala_-_revista_feminal_novembre_1917_%28cropped%29.jpg/330px-Caterina_albert_i_paradis_victor_catala_-_revista_feminal_novembre_1917_%28cropped%29.jpg?utm_source=ca.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ca.wikipedia.org/wiki/Caterina_Albert_i_Parad%C3%ADs"
+  },
+  {
+    "key": "maragall",
+    "title": "Joan Maragall i Gorina",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Joan_Maragall_1903.jpg/330px-Joan_Maragall_1903.jpg?utm_source=ca.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://ca.wikipedia.org/wiki/Joan_Maragall_i_Gorina"
+  }
+]
